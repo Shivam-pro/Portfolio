@@ -34,8 +34,8 @@ const Contact = () => {
         setMessage("Sending...");
 
         emailjs
-            .sendForm('service_zn329qh', 'template_k5wg5fi', form.current, {
-                publicKey: 'NYYOs33kaVDc3r0sX',
+            .sendForm(`${process.env.REACT_APP_SERVICE}`, `${process.env.REACT_APP_TEMPLATE}`, form.current, {
+                publicKey: `${process.env.REACT_APP_PUBLICKEY}`,
             })
             .then(
                 () => {
