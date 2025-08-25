@@ -11,7 +11,7 @@ const Home = () => {
         <h1 className='fullname'>Shivam Prakash</h1>
         <h2 className='role'>Frontend Developer</h2>
         <div className="buttons">
-            <div className='btn'>Download CV</div>
+            <div className='btn'><a className='black' href="/Shivam Prakash Resume.pdf" download="Shivam Prakash Resume">Download CV</a></div>
             <div className='btn bg-black'><a href="#contact">Contact Info</a></div>
         </div>
         <div className="social-media-platforms">
