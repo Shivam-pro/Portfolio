@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.5d495f70.css",
-    "main.js": "/Portfolio/static/js/main.ea89fcd8.js",
+    "main.css": "/Portfolio/static/css/main.363f9c2a.css",
+    "main.js": "/Portfolio/static/js/main.f802c92f.js",
     "static/js/453.ad7768ec.chunk.js": "/Portfolio/static/js/453.ad7768ec.chunk.js",
     "static/media/Food-Ordering-Website.png": "/Portfolio/static/media/Food-Ordering-Website.1ad1ed5b92b2e015deab.png",
     "static/media/Burger.png": "/Portfolio/static/media/Burger.71de3fba9926cf1a08d6.png",
@@ -11,12 +11,12 @@
     "static/media/aboutme.png": "/Portfolio/static/media/aboutme.39de9335a290c95258ee.png",
     "static/media/skillsimage.webp": "/Portfolio/static/media/skillsimage.5cb0aab3a106180727c9.webp",
     "index.html": "/Portfolio/index.html",
-    "main.5d495f70.css.map": "/Portfolio/static/css/main.5d495f70.css.map",
-    "main.ea89fcd8.js.map": "/Portfolio/static/js/main.ea89fcd8.js.map",
+    "main.363f9c2a.css.map": "/Portfolio/static/css/main.363f9c2a.css.map",
+    "main.f802c92f.js.map": "/Portfolio/static/js/main.f802c92f.js.map",
     "453.ad7768ec.chunk.js.map": "/Portfolio/static/js/453.ad7768ec.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5d495f70.css",
-    "static/js/main.ea89fcd8.js"
+    "static/css/main.363f9c2a.css",
+    "static/js/main.f802c92f.js"
   ]
 }
