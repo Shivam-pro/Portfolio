@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.5d495f70.css",
+    "main.js": "/Portfolio/static/js/main.ea89fcd8.js",
+    "static/js/453.ad7768ec.chunk.js": "/Portfolio/static/js/453.ad7768ec.chunk.js",
+    "static/media/Food-Ordering-Website.png": "/Portfolio/static/media/Food-Ordering-Website.1ad1ed5b92b2e015deab.png",
+    "static/media/Burger.png": "/Portfolio/static/media/Burger.71de3fba9926cf1a08d6.png",
+    "static/media/Profile.png": "/Portfolio/static/media/Profile.9fa80322540efc02daca.png",
+    "static/media/HangMan.png": "/Portfolio/static/media/HangMan.60e95a157b602c447ee8.png",
+    "static/media/TaskmanagerApp.png": "/Portfolio/static/media/TaskmanagerApp.2d8c439086b950871b32.png",
+    "static/media/aboutme.png": "/Portfolio/static/media/aboutme.39de9335a290c95258ee.png",
+    "static/media/skillsimage.webp": "/Portfolio/static/media/skillsimage.5cb0aab3a106180727c9.webp",
+    "index.html": "/Portfolio/index.html",
+    "main.5d495f70.css.map": "/Portfolio/static/css/main.5d495f70.css.map",
+    "main.ea89fcd8.js.map": "/Portfolio/static/js/main.ea89fcd8.js.map",
+    "453.ad7768ec.chunk.js.map": "/Portfolio/static/js/453.ad7768ec.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5d495f70.css",
+    "static/js/main.ea89fcd8.js"
+  ]
+}
