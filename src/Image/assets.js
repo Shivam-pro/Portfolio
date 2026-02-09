@@ -1,14 +1,15 @@
 import food from './Food-Ordering-Website.png'
 import burger from './Burger.png'
 import hangman from './HangMan.png'
-import taskmanager from './TaskmanagerApp.png'
+import notesWriter from './NotesWriter.png'
+import calculator from './calculator.png'
 
 export const projects = [
     {
         pname : "Food Ordering Website",
         pimage : food,
         githublink : "https://github.com/Shivam-pro/FoodOrederingWebsite",
-        demolink : "https://shivam-pro.github.io/FoodOrederingWebsite/"
+        demolink : "https://foodorederingwebsite-frontend1.onrender.com"
     },
     {
         pname : "Burger Website",
@@ -23,9 +24,15 @@ export const projects = [
         demolink : "https://shivam-pro.github.io/Hangman-game/"
     },
     {
-        pname : "Task Manager App",
-        pimage : taskmanager,
-        githublink : "https://github.com/Shivam-pro/TaskManager",
-        demolink : "https://shivam-pro.github.io/TaskManager/"
+        pname : "Notes Writer",
+        pimage : notesWriter,
+        githublink : "https://github.com/Shivam-pro/MERN-Stack",
+        demolink : "https://mern-stack-frontend-iud2.onrender.com"
     },
+    {
+        pname : "React Calculator Web App",
+        pimage : calculator,
+        githublink : "https://github.com/Shivam-pro/Calculator",
+        demolink : "https://shivam-pro.github.io/Calculator/"
+    }
 ]
