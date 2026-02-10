@@ -9,7 +9,7 @@ export const projects = [
         pname : "Food Ordering Website",
         pimage : food,
         githublink : "https://github.com/Shivam-pro/FoodOrederingWebsite",
-        demolink : "https://foodorederingwebsite-frontend1.onrender.com"
+        demolink : "https://zayto-frontend.onrender.com"
     },
     {
         pname : "Burger Website",
