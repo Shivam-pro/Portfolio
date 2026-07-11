@@ -19,8 +19,8 @@ const About = () => {
                         <p>Bachelors in Computer Application</p>
                         <p>Duration(2023-2026)</p>
                     </div>
-                    <p className='center'>I’m SHIVAM — a frontend developer who thrives at the intersection of code and design. I specialize in building responsive, accessible, and performant web applications using mordern technologies.</p>
-                    <p className='center'>I'm passionate about creating elegant solutions to complex problems, and I'm constantly learning new technologies and techniques to stay at the forefront of the ever-evolving web landscape.</p>
+                    <p className='center'>I’m a full-stack developer with a passion for building dynamic, user-friendly applications. Skilled in React, Node.js, and cloud-based solutions, I enjoy turning complex problems into elegant digital experiences. Over the past few years, I’ve worked on projects ranging from e-commerce platforms to data-driven dashboards.</p>
+                    <p className='center'> Beyond coding, I love exploring emerging technologies and sharing knowledge with the developer community. Let’s connect and create something impactful together.</p>
                 </div>
             </div>
         </div>

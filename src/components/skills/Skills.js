@@ -31,7 +31,7 @@ const Skills = () => {
                             <p>Bootstrap</p>
                         </div>
                         <div className='skill'>
-                            <i class="fa-brands fa-node-js"></i>
+                            <i className="fa-brands fa-node-js"></i>
                             <p>NodeJs</p>
                         </div>
                         <div className='skill'>

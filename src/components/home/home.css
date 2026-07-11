@@ -21,6 +21,14 @@
 .fullname {
     color: #646cff;
 }
+.display-role{
+    font-size: 32px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    color: #d501d9;
+}
 
 .role {
     color: var(--secondary-text);
@@ -70,6 +78,9 @@
 .social-media-platforms a {
     cursor: pointer;
     color: var(--text-color);
+}
+.role-type{
+    color:#d501d9;
 }
 
 @media (max-width: 1000px) {
