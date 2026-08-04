@@ -3,6 +3,7 @@ import burger from './Burger.png'
 import hangman from './HangMan.png'
 import notesWriter from './NotesWriter.png'
 import calculator from './calculator.png'
+import zapchat from './zapchatImage.png'
 
 export const projects = [
     {
@@ -18,6 +19,12 @@ export const projects = [
         demolink : "https://shivam-pro.github.io/Burger-web/"
     },
     {
+        pname : "Chatting Application",
+        pimage : zapchat,
+        githublink : "https://github.com/Shivam-pro/Chat-App",
+        demolink : "https://chat-app-frontend-a5w5.onrender.com"
+    },
+    {
         pname : "HangMan Game",
         pimage : hangman,
         githublink : "https://github.com/Shivam-pro/Hangman-game",
@@ -30,9 +37,9 @@ export const projects = [
         demolink : "https://mern-stack-frontend-iud2.onrender.com"
     },
     {
-        pname : "React Calculator Web App",
+        pname : "Calculator Web App",
         pimage : calculator,
         githublink : "https://github.com/Shivam-pro/Calculator",
         demolink : "https://shivam-pro.github.io/Calculator/"
-    }
+    },
 ]
